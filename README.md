@@ -1,5 +1,6 @@
 Blood-Bank-Mern-Stack-Project
-Blood Bank Management System Overview: 
+Blood Bank Management System
+Overview: 
 Hello! I am Lohith Sudha, a student at Veltech University. This repository contains a MERN stack project for a comprehensive Blood Bank Management System.
 
 Features:
